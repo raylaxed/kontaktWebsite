@@ -6,7 +6,8 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/browser/index.html"
     }
-  ]
+  ],
+  "outputDirectory": "dist"
 }
